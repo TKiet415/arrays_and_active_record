@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c54d279d-0b2f-4c4a-9780-007eeef171b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/array_test.rb" afterPath="$PROJECT_DIR$/tests/array_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/active_record_test.rb" afterPath="$PROJECT_DIR$/tests/active_record_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/arrays_and_active_record.iml" afterPath="$PROJECT_DIR$/.idea/arrays_and_active_record.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/questions.md" afterPath="$PROJECT_DIR$/questions.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="arrays_and_active_record.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c54d279d-0b2f-4c4a-9780-007eeef171b0" time="1385059029848" ignored="false" />
     <file path="/array_test.rb" changelist="c54d279d-0b2f-4c4a-9780-007eeef171b0" time="1385076035796" ignored="false" />
+    <file path="/questions.md" changelist="c54d279d-0b2f-4c4a-9780-007eeef171b0" time="1385076662727" ignored="false" />
+    <file path="/Gemfile" changelist="c54d279d-0b2f-4c4a-9780-007eeef171b0" time="1385077461398" ignored="false" />
+    <file path="/active_record_test.rb" changelist="c54d279d-0b2f-4c4a-9780-007eeef171b0" time="1385099669192" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +35,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="array_test.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="array_test.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/array_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="29" selection-start="4439" selection-end="4439" vertical-scroll-proportion="0.82954544">
+            <state line="155" column="29" selection-start="4439" selection-end="4439" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hash_test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/hash_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="active_record_test.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/active_record_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="146" column="119" selection-start="4774" selection-end="4774" vertical-scroll-proportion="0.80746794">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fake_data.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/support/fake_data.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="33" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="active_record_support.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/support/active_record_support.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="54" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questions.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/questions.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="26" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -55,6 +108,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/tests/array_test.rb" />
+        <option value="$PROJECT_DIR$/questions.md" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/tests/active_record_test.rb" />
       </list>
     </option>
   </component>
@@ -122,6 +178,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arrays_and_active_record" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arrays_and_active_record" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -132,6 +202,32 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -234,9 +330,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/questions.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="26" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/support/fake_data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="33" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/support/active_record_support.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="54" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/array_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="29" selection-start="4439" selection-end="4439" vertical-scroll-proportion="0.82954544">
+        <state line="155" column="29" selection-start="4439" selection-end="4439" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/hash_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.10344828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/active_record_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="119" selection-start="4774" selection-end="4774" vertical-scroll-proportion="0.80746794">
           <folding />
         </state>
       </provider>
